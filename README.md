@@ -5,4 +5,4 @@ To install packages: npm install
 To start the app: npm start
 
 
-App made in react by Yellow. If you need help contact me in discord: Yellow#3562
+App made in react by Yellow. If you need help contact me in discord: Yellow#8008
